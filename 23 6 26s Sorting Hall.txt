@@ -1,0 +1,15 @@
+-- 7 Billion Humans (2212:2214M) --
+-- 23: Sorting Hall --
+
+pickup s
+a:
+if myitem > e:
+    step e
+endif
+if w > myitem or
+ e != worker:
+    step w
+endif
+jump a
+
+
