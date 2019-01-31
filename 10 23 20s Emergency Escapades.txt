@@ -1,0 +1,30 @@
+-- 7 Billion Humans (2212:2214M) --
+-- 10: Emergency Escapades --
+
+a:
+if c != datacube:
+    step s
+    step w
+    jump a
+endif
+step n
+step n
+step w
+step w
+step s
+step s
+step s
+step w
+step w
+step w
+step w
+step w
+step n
+step n
+step n
+step n
+step n
+step n
+step w
+
+
